@@ -10,3 +10,5 @@ Medium Low
 Low
 
 The number of clusters are determined by the elbow method.
+
+<a href="https://www.notion.so/Power-BI-Dashboards-183ec8692364807ba058da7cde7cd114">link
